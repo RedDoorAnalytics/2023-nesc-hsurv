@@ -1,4 +1,4 @@
-# Hierarchical Survival Models: Estimation, Prediction, Interpretation
+# Hierarchical Survival Models: <br/> Estimation, Prediction, Interpretation
 
 This repository contains the material for the talk titled _Hierarchical Survival Models: Estimation, Prediction, Interpretation_, which was presented by Alessandro Gasparini at the [2023 Northern European Stata Conference](https://www.stata.com/meeting/northern-european23).
 
